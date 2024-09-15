@@ -67,11 +67,11 @@ In the initial phase of the project, our focus was on organizing the data effect
 # Task2 
 Debit cards usage dashboard:
 
-![debit1](https://github.com/lamiaoua/tp5git/assets/89353668/898f97ba-f3df-4f21-888f-35114d412e20)
+![debit1](https://github.com/user-attachments/assets/2b28d323-3e1f-4f32-9eb2-746697c5bead)
 
 Credit cards usage dashboard:
 
-![credit1](https://github.com/lamiaoua/tp5git/assets/89353668/ae3791e6-2c9b-4b62-b8ae-0b6b82ca0549)
+![credit1](https://github.com/user-attachments/assets/f8fd2e5d-4448-4dde-a281-c2450b59439c)
 
 # Insights:
 Total Usage insights for credit cards:
